@@ -6,7 +6,7 @@
 Create a simple database using MySQL, perform basic configuration settings, emphasize user management, and demonstrate basic schema design.
 
 ### Introduction
-In this project I have setup a simple database using MySQL, emphasizing user management and implementing basic schema design as required. 
+In this project I have setup a simple database using MySQL, emphasizing user management and implementing basic schema design as required.  <br>
 The tasks include installing MySQL, creating a user, defining tables, establishing relationships, and executing SQL commands. 
 
 ## Prerequisites
@@ -49,7 +49,7 @@ flush privileges;
 
 
 # References
-MySQL installation Official Website: https://dev.mysql.com/downloads/installer/
+MySQL installation Official Website: https://dev.mysql.com/downloads/installer/ <br>
 MySQL documentation: https://dev.mysql.com/doc/
  
 
