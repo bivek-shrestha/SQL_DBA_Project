@@ -1,6 +1,5 @@
-## Database Setup and Configuration for a small Point of Sale (POS) system
-<br>
-i.e. CodeRush Project
+## Database Setup and Configuration for a small Point of Sale (POS) system <br>
+## i.e. CodeRush Project
 
 
 ### Objective
