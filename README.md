@@ -1,4 +1,4 @@
-# SQL_DBA_Project
+# SQL_DBA_Project Code Rush
 ## Database Setup and Configuration
 
 
