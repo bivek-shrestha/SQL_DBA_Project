@@ -1,5 +1,5 @@
-# SQL_DBA_Project Code Rush
-## Database Setup and Configuration
+
+## Database Setup and Configuration for a small Point of Sale system
 
 
 ### Objective
