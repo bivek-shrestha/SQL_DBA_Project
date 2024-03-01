@@ -18,8 +18,8 @@ Before you begin, make sure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/bivek-shrestha/SQL_DBA_Project.git
-   cd SQL_DBA_Project
+   git clone https://github.com/bivek-shrestha/SQL_DBA_Project_CodeRush.git
+   cd SQL_DBA_Project_CodeRush
    ```
 ### MySQL Setup:
 #### -Install MySQL
