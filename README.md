@@ -1,12 +1,12 @@
 
-## Database Setup and Configuration for a small Point of Sale system
+## Database Setup and Configuration for a small Point of Sale (POS) system
 
 
 ### Objective
 Create a simple database using MySQL, perform basic configuration settings, emphasize user management, and demonstrate basic schema design.
 
 ### Introduction
-In this project I have setup a simple database using MySQL, emphasizing user management and implementing basic schema design as required.  <br>
+In this project I have setup a simple database using MySQL, emphasizing user management and implementing basic schema design as required for a basic POS system with administration, employees, products etc.  <br>
 The tasks include installing MySQL, creating a user, defining tables, establishing relationships, and executing SQL commands. 
 
 ## Prerequisites
